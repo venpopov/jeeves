@@ -12,10 +12,9 @@ status](https://www.r-pkg.org/badges/version/jeeves)](https://CRAN.R-project.org
 [![R-CMD-check](https://github.com/venpopov/jeeves/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/venpopov/jeeves/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of jeeves is to assist in creating, managing and sharing
-reproducible research projects in R. It provides tools for creating
-standard project structures, managing dependencies, and generating
-reports with ease.
+Jeeves assists in creating, managing and sharing reproducible research
+projects in R. It provides tools for creating standard project
+structures, managing dependencies, and generating reports with ease.
 
 ## Installation
 
