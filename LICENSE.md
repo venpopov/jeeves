@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2024 jeeves authors
+Copyright (c) 2024 Vencislav Popov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
