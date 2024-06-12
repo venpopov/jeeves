@@ -928,17 +928,6 @@
       ],
       "Hash": "c25fe7b2d8cba73d1b63c947bf7afdb9"
     },
-    "rprofile": {
-      "Package": "rprofile",
-      "Version": "0.4.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "utils"
-      ],
-      "Hash": "628f0ee5a444c06a7e8b9d84eec13669"
-    },
     "rprojroot": {
       "Package": "rprojroot",
       "Version": "2.0.4",

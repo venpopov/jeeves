@@ -9,6 +9,9 @@ Description: An opinionated collection of tools for creating, managing and shari
   dependencies, and generate reports with ease.
 License: MIT + file LICENSE
 Suggests: 
+    renv,
+    rprofile,
+    targets,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Encoding: UTF-8
