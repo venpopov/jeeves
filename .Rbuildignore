@@ -10,3 +10,7 @@
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^internal$
+^data-raw$
+^notebooks$
+^output$
