@@ -9,6 +9,7 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/jeeves)](https://CRAN.R-project.org/package=jeeves)
+[![R-CMD-check](https://github.com/venpopov/jeeves/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/venpopov/jeeves/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of jeeves is to assist in creating, managing and sharing
