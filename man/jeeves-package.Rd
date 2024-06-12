@@ -8,6 +8,14 @@
 \description{
 An opinionated collection of tools for creating, managing and sharing reproducible research projects in R. Create standard project structures, manage dependencies, and generate reports with ease.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/venpopov/jeeves}
+  \item Report bugs at \url{https://github.com/venpopov/jeeves/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Ven Popov \email{vencislav.popov@gmail.com} (\href{https://orcid.org/0000-0002-8073-4199}{ORCID})
 
