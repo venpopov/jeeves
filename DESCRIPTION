@@ -17,7 +17,7 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
-URL: https://github.com/venpopov/jeeves
+URL: https://github.com/venpopov/jeeves, https://venpopov.github.io/jeeves/
 BugReports: https://github.com/venpopov/jeeves/issues
 Imports: 
     usethis

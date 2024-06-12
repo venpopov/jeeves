@@ -12,6 +12,7 @@ An opinionated collection of tools for creating, managing and sharing reproducib
 Useful links:
 \itemize{
   \item \url{https://github.com/venpopov/jeeves}
+  \item \url{https://venpopov.github.io/jeeves/}
   \item Report bugs at \url{https://github.com/venpopov/jeeves/issues}
 }
 

@@ -7,3 +7,6 @@
 ^cran-comments\.md$
 ^.vscode$
 ^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
