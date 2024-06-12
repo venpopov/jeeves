@@ -10,8 +10,21 @@ if (requireNamespace("rprofile", quietly = TRUE)) {
 }
 
 reload <- function() {
-  if (interactive()) {
+  if (interactive() && requireNamespace("devtools", quietly = TRUE)) {
     devtools::document()
     devtools::load_all(quiet = TRUE)
   }
+}
+
+if (interactive()) {
+  .quiet <- function(expr) {
+    suppressMessages(suppressWarnings(expr))
+  }
+  on.exit(rm(.quiet), add = TRUE)
+
+  .quiet(require(devtools))
+  .quiet(require(reprex))
+  .quiet(require(usethis))
+  .quiet(require(gert))
+  .quiet(require(targets))
 }
