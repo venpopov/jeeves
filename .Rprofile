@@ -20,11 +20,12 @@ if (interactive()) {
   .quiet <- function(expr) {
     suppressMessages(suppressWarnings(expr))
   }
-  on.exit(rm(.quiet), add = TRUE)
 
   .quiet(require(devtools))
   .quiet(require(reprex))
   .quiet(require(usethis))
   .quiet(require(gert))
   .quiet(require(targets))
+
+  rm(.quiet)
 }
